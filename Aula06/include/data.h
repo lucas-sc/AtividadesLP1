@@ -1,5 +1,5 @@
-#ifndef DATA.H
-#define DATA.H
+#ifndef DATA_H
+#define DATA_H
 #include <string>
 
 struct Horario {
