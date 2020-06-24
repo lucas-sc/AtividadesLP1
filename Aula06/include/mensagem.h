@@ -1,5 +1,5 @@
-#ifndef MENSAGEM.H
-#define MENSAGEM.H
+#ifndef MENSAGEM_H
+#define MENSAGEM_H
 #include <string>
 #include <data.h>
 
