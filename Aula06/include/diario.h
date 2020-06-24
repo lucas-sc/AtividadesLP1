@@ -1,5 +1,5 @@
-#ifndef DIARIO.H
-#define DIARIO.H
+#ifndef DIARIO_H
+#define DIARIO_H
 #include <string>
 #include <mensagem.h>
 #include <list>
